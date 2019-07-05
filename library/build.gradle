@@ -75,6 +75,6 @@ android {
 }
 
 dependencies {
-    implementation "com.squareup.okhttp3:okhttp:3.10.0"
-    implementation "com.alibaba:fastjson:1.2.57"
+    api "com.squareup.okhttp3:okhttp:3.10.0"
+    api "com.alibaba:fastjson:1.2.57"
 }
